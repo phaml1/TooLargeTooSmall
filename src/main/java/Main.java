@@ -11,7 +11,8 @@ public class Main {
         Random rand = new Random();
         int randomNum = rand.nextInt(1, 10);
 
-        //just to see and test conditionals
+        /* ignore this comment and print
+        just for me to see and test the loop and conditionals*/
         System.out.println(randomNum);
 
         //user input of number 1-10
